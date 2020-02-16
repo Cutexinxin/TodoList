@@ -1,7 +1,7 @@
 import React from 'react';
 // import { HashRouter, Route, Switch } from 'react-router-dom';
-import 'antd/dist/antd.css'
-import { Input, Button, List } from 'antd';
+// import 'antd/dist/antd.css'
+// import { Input, Button, List } from 'antd';
 import store from './store/index'
 import { CHANGE_INPUT, ADD_ITEM, DELETE_ITEM } from './store/actionTypes'
 import TodoListUI from './AppUI'
